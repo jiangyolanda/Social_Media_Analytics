@@ -2,8 +2,9 @@
 
 On social media, influencer marketing has become a key strategy for promoting beauty and lifestyle products—especially perfumes. To better understand what drives engagement in this niche, I conducted an in-depth textual analysis of five Instagram influencers who focus exclusively on perfume-related content. The results reveal that perfume marketing on social media thrives on emotional storytelling and subtle cues that spark user interaction. While likes can be easily driven by visual aesthetics and emoji usage, comments require deeper emotional and cognitive stimulation, conveyed through captions, image choices, and thoughtful language.
 
-<img width="963" height="543" alt="image" src="https://github.com/user-attachments/assets/078bf772-d809-419e-8ba2-5ccb5bfc789d" />
-<img width="960" height="541" alt="image" src="https://github.com/user-attachments/assets/1b522410-d7b1-44cb-bc92-d0b5b0530457" />
+<img width="1161" height="653" alt="image" src="https://github.com/user-attachments/assets/2cbbabe7-9002-4767-b93a-ccb1979cde7d" />
+
+<img width="1160" height="653" alt="image" src="https://github.com/user-attachments/assets/b6c6a126-ab58-47a4-b562-3b3bfd28e12d" />
 
 **Content Has a Stronger Effect on Comments than Likes**
 One of the core findings is that comments are more significantly influenced by content factors than likes. This suggests that prompting users to comment involves more active engagement than receiving passive approval through likes. For example, including perfume bottles in images (without people or “branded selfies” like hands holding products) enhances comment activity. Similarly, darker-toned images with lower saturation and contrast tend to spark more discussion.
