@@ -4,8 +4,6 @@ On social media, influencer marketing has become a key strategy for promoting be
 
 <img width="1161" height="653" alt="image" src="https://github.com/user-attachments/assets/2cbbabe7-9002-4767-b93a-ccb1979cde7d" />
 
-<img width="1160" height="653" alt="image" src="https://github.com/user-attachments/assets/b6c6a126-ab58-47a4-b562-3b3bfd28e12d" />
-
 **Content Has a Stronger Effect on Comments than Likes**
 One of the core findings is that comments are more significantly influenced by content factors than likes. This suggests that prompting users to comment involves more active engagement than receiving passive approval through likes. For example, including perfume bottles in images (without people or “branded selfies” like hands holding products) enhances comment activity. Similarly, darker-toned images with lower saturation and contrast tend to spark more discussion.
 
@@ -31,5 +29,8 @@ Surprisingly, hashtags and exclamation marks showed no significant effect on eng
 To analyze emotional tone, I applied four sentiment analysis tools: AFINN, LIWC, Syuzhet, and Sentimentr. The findings highlight the importance of emotional richness and contrast in stimulating engagement:
 A higher AFINN score (positive sentiment) boosts likes.
 The presence of negative words (from LIWC) correlates with increased comments, likely because they evoke stronger reactions.
+
+<img width="1160" height="653" alt="image" src="https://github.com/user-attachments/assets/b6c6a126-ab58-47a4-b562-3b3bfd28e12d" />
+
 A higher Syuzhet score (emotional intensity) also raises comment engagement.
 Conversely, a high Sentimentr score (mild positivity) is negatively correlated with comments, suggesting that bland positivity lacks emotional pull.
